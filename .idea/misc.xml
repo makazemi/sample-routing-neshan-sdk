@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/androidStudioProject/NeshanRouting/app/src/main/res/drawable/ic_my_location.xml" value="0.2555" />
+        <entry key="..\:/androidStudioProject/NeshanRouting/app/src/main/res/drawable/ic_navigation.xml" value="0.172" />
+        <entry key="..\:/androidStudioProject/NeshanRouting/app/src/main/res/drawable/toggle_button_bg.xml" value="0.1195" />
+        <entry key="..\:/androidStudioProject/NeshanRouting/app/src/main/res/drawable/toggle_button_on_bg.xml" value="0.1225" />
+        <entry key="..\:/androidStudioProject/NeshanRouting/app/src/main/res/layout/activity_main.xml" value="0.176" />
+        <entry key="..\:/androidStudioProject/NeshanRouting/app/src/main/res/layout/activity_routing.xml" value="0.22644927536231885" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

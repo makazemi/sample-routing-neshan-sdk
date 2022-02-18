@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NeshanRouting</string>
+    <string name="start_routing">Start Routing</string>
+    <string name="clear_path">Clear Path</string>
+</resources>
